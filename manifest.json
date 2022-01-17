@@ -1,0 +1,24 @@
+{
+
+    "manifest_version": 2,
+    "name": "Vandy Library Proxy",
+    "version": "1.0",
+  
+    "description": "Automatically connects to a webpage using Vanderbilt's library system as an access proxy.",
+    "icons": {
+      "256": "icons/Book-48.png"
+    },
+  
+    "permissions": [
+      "activeTab",
+      "tabs"
+    ],
+  
+    "browser_action": {
+      "default_icon": "icons/Book-32.png",
+      "default_title": "Library Proxy",
+      "default_popup": "popup/popup.html"
+    }
+  
+  }
+  
