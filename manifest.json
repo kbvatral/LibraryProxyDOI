@@ -1,10 +1,11 @@
 {
 
     "manifest_version": 2,
-    "name": "Vandy Library Proxy",
+    "name": "Library Proxy DOI",
     "version": "1.0",
   
     "description": "Automatically connects to a webpage using Vanderbilt's library system as an access proxy.",
+    "homepage_url": "https://github.com/kbvatral/LibraryProxyDOI",
     "icons": {
       "256": "icons/Book-48.png"
     },
