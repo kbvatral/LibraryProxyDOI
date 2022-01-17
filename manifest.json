@@ -7,7 +7,7 @@
     "description": "Automatically connects to a webpage using Vanderbilt's library system as an access proxy.",
     "homepage_url": "https://github.com/kbvatral/LibraryProxyDOI",
     "icons": {
-      "256": "icons/Book-48.png"
+      "48": "icons/Book-48.png"
     },
   
     "permissions": [
